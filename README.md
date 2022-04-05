@@ -26,3 +26,6 @@ przed pierwszym uruchomieniem `npm install`
 * Serwer:  
 `cd weatherapp-server`  
 `./mvnw spring-boot:run` lub na systemie Windows `.\mvnw.cmd spring-boot:run`
+
+![img1](pictures/demo1.png)
+![img2](pictures/demo2.png)
