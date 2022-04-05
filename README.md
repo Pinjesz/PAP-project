@@ -29,3 +29,5 @@ przed pierwszym uruchomieniem `npm install`
 
 ![img1](pictures/demo1.png)
 ![img2](pictures/demo2.png)
+
+Uwaga: Przed uruchomieniem serwera należy zmienić nieaktualne dane dostępu do serwera Oracle Database w pliku resources/application.properties.
